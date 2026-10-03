@@ -1,0 +1,6 @@
+{
+  "name": "Vandna Saree Center",
+  "description": "Vandna Saree Center - आपकी पसंद, हमारा विश्वास. Premium Indian ethnic and modern wear for Sarees, Women, Men, Kids, and Baby. One Store. Every Style. Every Generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
